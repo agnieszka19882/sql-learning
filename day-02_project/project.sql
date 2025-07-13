@@ -12,7 +12,7 @@ CREATE TABLE friends(
 
 2. Beneath your current code, add Ororo Munroe to friends.
 
-INSERT INTO frinds (id, name, birthday)
+INSERT INTO friends (id, name, birthday)
 VALUES (1, 'Ororo Munroe', '1940-05-30');
 
 3. Let’s make sure that Ororo has been added to the database:
